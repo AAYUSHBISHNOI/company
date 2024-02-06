@@ -15,15 +15,15 @@ import Use from './Components/Use';
 function App() {
   return (
     <div className='bcg_section'>
-      <Use/>
-    {/* <About/>
-    <Hero/> */}
-      {/* <Myheader/> */}
-      {/* <Features/>
+      {/* <Use/> */}
+    <About/>
+    <Hero/>
+      <Myheader/>
+      <Features/>
       <Our/>
       <Brands/>
       <Start/>
-      <Myfooter/> */}
+      <Myfooter/>
     </div>
   );
 }
