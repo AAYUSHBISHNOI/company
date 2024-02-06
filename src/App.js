@@ -7,6 +7,7 @@ import Brands from './Components/Brands';
 import Start from './Components/Start';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
+import Myheader from './Components/Myheader';
 import Myfooter from './Components/Myfooter';
 import About from './Components/About';
 import Hero from './Components/Hero';
@@ -16,8 +17,8 @@ function App() {
   return (
     <div className='bcg_section'>
       {/* <Use/> */}
-    <About/>
-    <Hero/>
+    {/* <About/> */}
+    {/* <Hero/> */}
       <Myheader/>
       <Features/>
       <Our/>
